@@ -112,3 +112,4 @@ if __name__ == "__main__":
         print(f"图表已生成: {base_name}.png/pdf")
     else:
         print("fffff")
+        print("xxxxxx")
