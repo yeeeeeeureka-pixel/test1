@@ -111,4 +111,4 @@ if __name__ == "__main__":
         base_name = LOG_PATH.split('.')[0]
         print(f"图表已生成: {base_name}.png/pdf")
     else:
-        print("未找到有效数据")
+        print("dddd")
